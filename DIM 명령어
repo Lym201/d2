@@ -1,0 +1,29 @@
+DIM 명령어
+
+//전투력 1810
+power:1810
+
+//제작무기
+is:craftable
+
+//
+is:customstatlower
+
+//
+is:statlower
+
+//
+stat:워록pve:>=50
+stat:타이탄pve:>=50
+stat:헌터pve:>=50
+
+//
+stat:워록pve:<=50
+stat:타이탄pve:<=50
+stat:헌터pve:<=50
+
+//
+catalyst:incomplete
+
+//
+tag:
