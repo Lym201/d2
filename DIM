@@ -1,5 +1,13 @@
 title:DIM
 
+// Coronach-22 - 참선+백열 ()
+dimwishlist:item=355382946&perks=2387244414,4293542123
+
+
+// Coronach-22 - 선망+백열 ()
+dimwishlist:item=355382946&perks=968510818,4293542123
+
+
 // Positive Outlook - 참선+불안정 ()
 dimwishlist:item=491078457&perks=2387244414,2048641572
 
@@ -10,9 +18,5 @@ dimwishlist:item=491078457&perks=2946784966,2048641572
 
 // Positive Outlook - 사격교체+불안정 ()
 dimwishlist:item=491078457&perks=2586829431,2048641572
-
-
-// Positive Outlook - 참선+치무 ()
-dimwishlist:item=491078457&perks=2387244414,1546637391
 
 
