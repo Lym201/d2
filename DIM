@@ -1,8 +1,14 @@
 title:DIM
 
 // Senuna SI6 - 무먹쟁+묘비(PVE) ()
-//notes: 무먹쟁+묘비(PVE)
 dimwishlist:item=5159537&perks=2779035018,124408337
+
+
+// Subzero Salvo - 야암+폭전/연쇄/집탄 ()
+//notes: 야암+폭전/연쇄/집탄
+dimwishlist:item=42351395&perks=2010801679,3523296417
+dimwishlist:item=42351395&perks=2010801679,2396489472
+dimwishlist:item=42351395&perks=2010801679,1275731761
 
 
 // Ancient Gospel - 무법자+살상(PVE) ()
@@ -26,23 +32,24 @@ dimwishlist:item=48643186&perks=699525795,2846385770
 
 
 // Jorum's Claw - 무법+살상/백열 ()
-//notes: 무법+살상/백열
 dimwishlist:item=62937067&perks=1168162263,1015611457
 dimwishlist:item=62937067&perks=1168162263,4293542123
 
 
 // Jorum's Claw - 무법+머추 ()
-//notes: 무법+머추
 dimwishlist:item=62937067&perks=1168162263,460017080
 
 
+// The Deicide - 슬라+원투 ()
+//notes: 슬라+원투
+dimwishlist:item=217140611&perks=3161816588,2679249093
+
+
 // Glissando-47 - 접회+차심 ()
-//notes: 접회+차심
 dimwishlist:item=222606050&perks=3619207468,2551157718
 
 
 // Glissando-47 - 재구성+부화 ()
-//notes: 재구성+부화
 dimwishlist:item=222606050&perks=1523832109,831391274
 
 
@@ -65,111 +72,243 @@ dimwishlist:item=334171687&perks=1168162263,2848615171
 
 
 // Coronach-22 - 참선+백열 ()
-//notes: 참선+백열
 dimwishlist:item=355382946&perks=2387244414,4293542123
 
 
 // Coronach-22 - 선망+백열 ()
-//notes: 선망+백열
 dimwishlist:item=355382946&perks=968510818,4293542123
 
 
 // Coronach-22 - 무먹쟁+백열 ()
-//notes: 무먹쟁+백열
 dimwishlist:item=355382946&perks=2779035018,4293542123
 
 
 // Cantata-57 - 신속+시한탄두(PVE) ()
+//notes: 신속+시한탄두(PVE)
 dimwishlist:item=372697604&perks=247725512,1954620775
 
 
 // Cantata-57 - 폭눈/신속+사확(PVE) ()
+//notes: 폭눈/신속+사확(PVE)
 dimwishlist:item=372697604&perks=699525795,2846385770
 dimwishlist:item=372697604&perks=247725512,2846385770
 
 
 // Punching Out - 사확장+살상 ()
-//notes: 사확장+살상
 dimwishlist:item=378498222&perks=2846385770,1015611457
 
 
+// Swarm of the Raven - 충증+불안정(PVE) ()
+//notes: 충증+불안정(PVE)
+dimwishlist:item=433905699&perks=951095735,2048641572
+
+
+// Swarm of the Raven - 능무+분파장(PVP) ()
+//notes: 능무+분파장(PVP)
+dimwishlist:item=433905699&perks=1821614984,1683379515
+
+
+// Corrective Measure - 탄되/연명+반딧불 ()
+//notes: 탄되/연명+반딧불
+dimwishlist:item=471518543&perks=3418782618,3824105627
+dimwishlist:item=471518543&perks=1820235745,3824105627
+
+
+// Corrective Measure - 탄되+고비탄 ()
+//notes: 탄되+고비탄
+dimwishlist:item=471518543&perks=3418782618,2213355989
+
+
+// Terminus Horizon - 삼중+대상 ()
+//notes: 삼중+대상
+dimwishlist:item=487205709&perks=3400784728,365154968
+
+
 // Positive Outlook - 참선+불안정 ()
-//notes: 참선+불안정
 dimwishlist:item=491078457&perks=2387244414,2048641572
 
 
 // Positive Outlook - 터널+불안정 ()
-//notes: 터널+불안정
 dimwishlist:item=491078457&perks=2946784966,2048641572
 
 
 // Positive Outlook - 사격교체+불안정 ()
-//notes: 사격교체+불안정
 dimwishlist:item=491078457&perks=2586829431,2048641572
 
 
 // Contingency Plan - 터널+살상(PVP) ()
-//notes: 터널+살상(PVP)
 dimwishlist:item=577528837&perks=2946784966,1015611457
 
 
 // Contingency Plan - 무법/연명+광폭 ()
-//notes: 무법/연명+광폭
 dimwishlist:item=577528837&perks=1168162263,4104185692
 dimwishlist:item=577528837&perks=1820235745,4104185692
 
 
 // Gallu RR3 - 집중/범람+스냅 ()
-//notes: 집중/범람+스냅
 dimwishlist:item=617501162&perks=2866798147,957782887
 dimwishlist:item=617501162&perks=3643424744,957782887
 
 
+// Hand in Hand - 슬라+원투 ()
+//notes: 슬라+원투
+dimwishlist:item=664109750&perks=3161816588,2679249093
+
+
+// Arsenic Bite-4b - 광란/잠자리+폭촉 ()
+//notes: 광란/잠자리+폭촉
+dimwishlist:item=720351795&perks=3425386926,3365897133
+dimwishlist:item=720351795&perks=1866048759,3365897133
+
+
+// Arsenic Bite-4b - 광란/잠자리+궁움 ()
+//notes: 광란/잠자리+궁움
+dimwishlist:item=720351795&perks=3425386926,201365942
+dimwishlist:item=720351795&perks=2848615171,201365942
+
+
 // Synchronic Roulette - 접회+부화(PVE) ()
-//notes: 접회+부화(PVE)
 dimwishlist:item=811403305&perks=3619207468,831391274
 
 
 // Synchronic Roulette - 접회+살상(PVP) ()
-//notes: 접회+살상(PVP)
 dimwishlist:item=811403305&perks=3619207468,1015611457
 
 
+// Cold Comfort - 선망+미끼 ()
+//notes: 선망+미끼
+dimwishlist:item=839786290&perks=968510818,3078487919
+
+
+// Marsilion-C - 선망/야전+폭빛/치무 ()
+//notes: 선망/야전+폭빛/치무
+dimwishlist:item=867154247&perks=968510818,3194351027
+dimwishlist:item=867154247&perks=968510818,1546637391
+dimwishlist:item=867154247&perks=2869569095,3194351027
+dimwishlist:item=867154247&perks=2869569095,1546637391
+
+
+// Far Future - 빠무+초탄 ()
+//notes: 빠무+초탄
+dimwishlist:item=893527433&perks=706527188,47981717
+
+
+// Far Future - 자장+폭전 ()
+//notes: 자장+폭전
+dimwishlist:item=893527433&perks=3300816228,3523296417
+
+
 // Aurvandil FR6 - 재구성+냉탄 ()
-//notes: 재구성+냉탄
 dimwishlist:item=963710795&perks=1523832109,2978966579
 
 
+// Deafening Whisper - 황탄+자장 ()
+//notes: 황탄+자장
+dimwishlist:item=981718087&perks=1556840489,3300816228
+
+
+// Bad Omens - 추적+집탄 ()
+//notes: 추적+집탄
+dimwishlist:item=991314988&perks=3977735242,1275731761
+
+
+// Bad Omens - 자장+집탄 ()
+//notes: 자장+집탄
+dimwishlist:item=991314988&perks=3300816228,1275731761
+
+
 // Perses-D - 신속+폭탄/묘비 ()
-//notes: 신속+폭탄/묘비
 dimwishlist:item=1019000888&perks=247725512,3038247973
 dimwishlist:item=1019000888&perks=247725512,124408337
 
 
+// Pressurized Precision - 단디+고비탄 ()
+//notes: 단디+고비탄
+dimwishlist:item=1084190509&perks=280464955,2213355989
+
+
+// Pressurized Precision - 단디+사확장 ()
+//notes: 단디+사확장
+dimwishlist:item=1084190509&perks=280464955,2846385770
+
+
+// Pressurized Precision - 이표+치무 ()
+//notes: 이표+치무
+dimwishlist:item=1084190509&perks=588594999,1546637391
+
+
 // Extraordinary Rendition - 범람+광폭 ()
-//notes: 범람+광폭
 dimwishlist:item=1097616550&perks=3643424744,4104185692
 
 
+// Last Foray - 불화/야전/원축+백열 ()
+//notes: 불화/야전/원축+백열
+dimwishlist:item=1106635211&perks=3978468247,4293542123
+dimwishlist:item=1106635211&perks=2869569095,4293542123
+dimwishlist:item=1106635211&perks=3511092054,4293542123
+
+
 // Servant Leader - 신속+살상 ()
-//notes: 신속+살상
 dimwishlist:item=1107446438&perks=247725512,1015611457
 
 
+// New Pacific Epitaph - 폭전+아드/방향/축적 ()
+//notes: 폭전+아드/방향/축적
+dimwishlist:item=1125217994&perks=3523296417,11612903
+dimwishlist:item=1125217994&perks=3523296417,3201496230
+dimwishlist:item=1125217994&perks=3523296417,3324494224
+
+
+// Just in Case - 집강+백열 ()
+//notes: 집강+백열
+dimwishlist:item=1139727256&perks=1749209109,4293542123
+
+
 // Yesteryear - 무법+데스페라도 ()
-//notes: 무법+데스페라도
 dimwishlist:item=1141927949&perks=1168162263,3047969693
 
 
+// Dark Decider - 강손+사확장 ()
+//notes: 강손+사확장
+dimwishlist:item=1144014195&perks=11551321,2846385770
+
+
+// Dark Decider - 균형+볼트샷 ()
+//notes: 균형+볼트샷
+dimwishlist:item=1144014195&perks=744594675,2173046394
+
+
+// Jian 7 Rifle - 완자방+광란 ()
+//notes: 완자방+광란
+dimwishlist:item=1162247618&perks=4267945040,3425386926
+
+
 // High Albedo - 완자방+폭전/원천 ()
-//notes: 완자방+폭전/원천
 dimwishlist:item=1197486957&perks=4267945040,3523296417
 dimwishlist:item=1197486957&perks=4267945040,3592538738
 
 
 // Combined Action - 터널+살상 ()
-//notes: 터널+살상
 dimwishlist:item=1331824604&perks=2946784966,1015611457
+
+
+// Bite of the Fox - 스냅+폭발/이표/초탄 ()
+//notes: 스냅+폭발/이표/초탄
+dimwishlist:item=1403800851&perks=957782887,3038247973
+dimwishlist:item=1403800851&perks=957782887,588594999
+dimwishlist:item=1403800851&perks=957782887,47981717
+
+
+// Nasreddin - 집강+회오리 ()
+//notes: 집강+회오리
+dimwishlist:item=1456017061&perks=1749209109,3913600130
+
+
+// Friction Fire - 연명/위감/살육/야전+광란 ()
+dimwishlist:item=1513993763&perks=1820235745,3425386926
+dimwishlist:item=1513993763&perks=2869569095,3425386926
+dimwishlist:item=1513993763&perks=2450788523,3425386926
+dimwishlist:item=1513993763&perks=4071163871,3425386926
 
 
 // Seventh Seraph Officer Revolver - 재구성+치무 ()
@@ -181,24 +320,45 @@ dimwishlist:item=1555959830&perks=1523832109,438098033
 
 
 // Enyo-D - 무먹쟁+광란 ()
-//notes: 무먹쟁+광란
 dimwishlist:item=1601177201&perks=2779035018,3425386926
 
 
+// Harsh Language - 선망+불안정 ()
+//notes: 선망+불안정
+dimwishlist:item=1606497639&perks=968510818,2048641572
+
+
 // Biting Winds - 신속+폭발 ()
-//notes: 신속+폭발
 dimwishlist:item=1621657423&perks=247725512,3365897133
 
 
 // Outlast - 사확장+살상(PVP) ()
-//notes: 사확장+살상(PVP)
 dimwishlist:item=1678205741&perks=2846385770,1015611457
 
 
 // Outlast - 무먹쟁/무법+살상(PVE) ()
-//notes: 무먹쟁/무법+살상(PVE)
 dimwishlist:item=1678205741&perks=2779035018,1015611457
 dimwishlist:item=1678205741&perks=1168162263,1015611457
+
+
+// Greasy Luck - 재생/황탄/이동불가+백열 ()
+//notes: 재생/황탄/이동불가+백열
+dimwishlist:item=1757202961&perks=1966281507,4293542123
+dimwishlist:item=1757202961&perks=1556840489,4293542123
+dimwishlist:item=1757202961&perks=3800201097,4293542123
+
+
+// Greasy Luck - 재생+근접 ()
+//notes: 재생+근접
+dimwishlist:item=1757202961&perks=1966281507,1782407750
+
+
+// Escape Velocity - 범람+삼투력/빠무/치무/포위 ()
+//notes: 범람+삼투력/빠무/치무/포위
+dimwishlist:item=1786797708&perks=3643424744,1774574192
+dimwishlist:item=1786797708&perks=3643424744,706527188
+dimwishlist:item=1786797708&perks=3643424744,1546637391
+dimwishlist:item=1786797708&perks=3643424744,3708227201
 
 
 // Nature of the Beast - 빠무/스냅+사확(PVP) ()
@@ -206,121 +366,173 @@ dimwishlist:item=1835747805&perks=706527188,2846385770
 dimwishlist:item=1835747805&perks=957782887,2846385770
 
 
+// Jararaca-3sr - 신속+묘비/살상 ()
+//notes: 신속+묘비/살상
+dimwishlist:item=1851521408&perks=247725512,124408337
+dimwishlist:item=1851521408&perks=247725512,1015611457
+
+
 // Wendigo GL3 - 자장+폭빛(PVE) ()
-//notes: 자장+폭빛(PVE)
 dimwishlist:item=1854753404&perks=3300816228,3194351027
 
 
 // Wendigo GL3 - 충격증폭+사확장(PVP) ()
-//notes: 충격증폭+사확장(PVP)
 dimwishlist:item=1854753404&perks=951095735,2846385770
 
 
+// Blowout - 야전/폭전+폭빛 ()
+//notes: 야전/폭전+폭빛
+dimwishlist:item=1903182562&perks=2869569095,3194351027
+dimwishlist:item=1903182562&perks=3523296417,3194351027
+
+
 // Boudica-C - 위감+무뢰한 ()
-//notes: 위감+무뢰한
 dimwishlist:item=1916287826&perks=4071163871,4082225868
 
 
 // Stars in Shadow - 무법+살상 ()
-//notes: 무법+살상
 dimwishlist:item=2050789284&perks=1168162263,1015611457
 
 
 // Battle Scar - 사전+물진 ()
-//notes: 사전+물진
 dimwishlist:item=2099894368&perks=3700496672,3891536761
 
 
 // Battle Scar - 접회+물진 ()
-//notes: 접회+물진
 dimwishlist:item=2099894368&perks=3619207468,3891536761
 
 
+// Hero of Ages - 폭전/집강/가차+연쇄 ()
+//notes: 폭전/집강/가차+연쇄
+dimwishlist:item=2139640995&perks=3523296417,2396489472
+dimwishlist:item=2139640995&perks=1749209109,2396489472
+dimwishlist:item=2139640995&perks=3108830275,2396489472
+
+
 // Fatebringer - 폭발+반딧불 ()
-//notes: 폭발+반딧불
 dimwishlist:item=2171478765&perks=3038247973,3824105627
 
 
+// Circular Logic - 무먹+부화 ()
+//notes: 무먹+부화
+dimwishlist:item=2187717691&perks=2779035018,831391274
+
+
 // Zealot's Reward - 압박+고충격 ()
-//notes: 압박+고충격
 dimwishlist:item=2209003210&perks=1645158859,2213355989
 
 
+// Roar of the Bear - 폭전+집탄 ()
+//notes: 폭전+집탄
+dimwishlist:item=2231910050&perks=3523296417,1275731761
+
+
 // Fugue-55 - 정환+사선/치무 ()
-//notes: 정환+사선/치무
 dimwishlist:item=2233545123&perks=1354429876,1771339417
 dimwishlist:item=2233545123&perks=1354429876,1546637391
 
 
 // Fugue-55 - 집중+스냅 ()
-//notes: 집중+스냅
 dimwishlist:item=2233545123&perks=2866798147,957782887
 
 
 // Stochastic Variable - 무먹쟁+다처탄 ()
-//notes: 무먹쟁+다처탄
 dimwishlist:item=2272470786&perks=2779035018,2458213969
 
 
 // Lodbrok-C - 정환+대상조준 ()
-//notes: 정환+대상조준
 dimwishlist:item=2328531378&perks=1354429876,365154968
 
 
 // Lodbrok-C - 영속+대상조준 ()
-//notes: 영속+대상조준
 dimwishlist:item=2328531378&perks=1428297954,365154968
 
 
 // Ogma PR6 - 폭정+아드 ()
-//notes: 폭정+아드
 dimwishlist:item=2342054803&perks=3523296417,11612903
 
 
 // Ogma PR6 - 폭정+잠자리 ()
-//notes: 폭정+잠자리
 dimwishlist:item=2342054803&perks=3523296417,2848615171
 
 
 // Prolonged Engagement - 연명+광폭/묘비 ()
-//notes: 연명+광폭/묘비
 dimwishlist:item=2349907931&perks=1820235745,124408337
 dimwishlist:item=2349907931&perks=1820235745,4104185692
 
 
 // The Vision - 살육+무뢰한(PVP) ()
-//notes: 살육+무뢰한(PVP)
 dimwishlist:item=2414141462&perks=2450788523,4082225868
 
 
 // The Vision - 야암+살탄 ()
-//notes: 야암+살탄
 dimwishlist:item=2414141462&perks=2010801679,1015611457
 
 
+// Royal Entry - 자장+광탄 ()
+//notes: 자장+광탄
+dimwishlist:item=2448907086&perks=3300816228,2284787283
+
+
+// The Number - 살바+다처탄 ()
+//notes: 살바+다처탄
+dimwishlist:item=2492081469&perks=2450788523,2458213969
+
+
+// The Number - 압박+고비탄 ()
+//notes: 압박+고비탄
+dimwishlist:item=2492081469&perks=1645158859,2213355989
+
+
+// The Number - 위감+원포올 ()
+//notes: 위감+원포올
+dimwishlist:item=2492081469&perks=4071163871,4049631843
+
+
+// Code Duello - 자장+인상 ()
+//notes: 자장+인상
+dimwishlist:item=2496242052&perks=3300816228,3927722942
+
+
 // Sorrow's Verse - 연명+광란 ()
-//notes: 연명+광란
 dimwishlist:item=2496875173&perks=1820235745,3425386926
 
 
 // Lunulata-4b - 사확장+묘비 ()
-//notes: 사확장+묘비
 dimwishlist:item=2513965917&perks=2846385770,124408337
 
 
 // Fioritura-59 - 위감+살탄(PVP) ()
-//notes: 위감+살탄(PVP)
 dimwishlist:item=2566006935&perks=4071163871,1015611457
 
 
+// Basso Ostinato - 선망/무덤+원투(PVP) ()
+//notes: 선망/무덤+원투(PVP)
+dimwishlist:item=2573900604&perks=968510818,2679249093
+dimwishlist:item=2573900604&perks=1631667848,2679249093
+
+
+// Basso Ostinato - 선망+불안정(PVE) ()
+//notes: 선망+불안정(PVE)
+dimwishlist:item=2573900604&perks=968510818,2048641572
+
+
+// Compass Rose - 빠무+스냅(PVP) ()
+//notes: 빠무+스냅(PVP)
+dimwishlist:item=2591111628&perks=706527188,957782887
+
+
+// Compass Rose - 황탄+백열(PVE) ()
+//notes: 황탄+백열(PVE)
+dimwishlist:item=2591111628&perks=1556840489,4293542123
+
+
 // Strident Whistle - 궁움+치무/폭촉 ()
-//notes: 궁움+치무/폭촉
 dimwishlist:item=2591241074&perks=201365942,1546637391
 dimwishlist:item=2591241074&perks=201365942,3365897133
 
 
 // Strident Whistle - 궁움+백열/잠자리 ()
-//notes: 궁움+백열/잠자리
 dimwishlist:item=2591241074&perks=201365942,4293542123
 dimwishlist:item=2591241074&perks=201365942,2848615171
 
@@ -333,6 +545,11 @@ dimwishlist:item=2671639706&perks=1168162263,3425386926
 dimwishlist:item=2671639706&perks=1428297954,4104185692
 
 
+// Irukandji - 정환+사선 ()
+//notes: 정환+사선
+dimwishlist:item=2673925403&perks=1354429876,1771339417
+
+
 // Arc Logic - 연명+광란 ()
 dimwishlist:item=2723909519&perks=1820235745,3425386926
 
@@ -342,63 +559,113 @@ dimwishlist:item=2723909519&perks=2779035018,4104185692
 
 
 // True Prophecy - 범람+폭발 ()
+//notes: 범람+폭발
 dimwishlist:item=2742838700&perks=3643424744,3038247973
 
 
 // True Prophecy - 범란+광란 ()
+//notes: 범란+광란
 dimwishlist:item=2742838700&perks=3643424744,3425386926
 
 
 // True Prophecy - 사확+폭탄(PVP) ()
+//notes: 사확+폭탄(PVP)
 dimwishlist:item=2742838700&perks=2846385770,3038247973
 
 
+// Royal Chase - 완자방+잠자리/다처탄 ()
+//notes: 완자방+잠자리/다처탄
+dimwishlist:item=2776503072&perks=4267945040,2848615171
+dimwishlist:item=2776503072&perks=4267945040,2458213969
+
+
+// Fortissimo-11 - 폭전+치무 ()
+//notes: 폭전+치무
+dimwishlist:item=2821430069&perks=3523296417,1546637391
+
+
 // Bug-Out Bag - 연명+백열 ()
-//notes: 연명+백열
 dimwishlist:item=2832639510&perks=1820235745,4293542123
 
 
 // Trust - 스냅+폭발탄약(PVP) ()
-//notes: 스냅+폭발탄약(PVP)
 dimwishlist:item=2850664015&perks=957782887,3038247973
 
 
 // Trust - 무법+폭발탄약(PVE) ()
-//notes: 무법+폭발탄약(PVE)
 dimwishlist:item=2850664015&perks=1168162263,3038247973
 
 
+// Krait - 연명+묘비 ()
+//notes: 연명+묘비
+dimwishlist:item=2852052802&perks=1820235745,124408337
+
+
+// Xenoclast IV - 슬라+원투 ()
+//notes: 슬라+원투
+dimwishlist:item=2891672170&perks=3161816588,2679249093
+
+
+// Xenoclast IV - 무덤+원투 ()
+//notes: 무덤+원투
+dimwishlist:item=2891672170&perks=1631667848,2679249093
+
+
 // Out of Bounds - 폭전+아드 ()
-//notes: 폭전+아드
 dimwishlist:item=2988121501&perks=3523296417,11612903
 
 
+// Iota Draconis - 합주+고비탄(PVE) ()
+//notes: 합주+고비탄(PVE)
+dimwishlist:item=3044460004&perks=2621346526,2213355989
+
+
+// Iota Draconis - 압박+고비탄(PVP) ()
+//notes: 압박+고비탄(PVP)
+dimwishlist:item=3044460004&perks=1645158859,2213355989
+
+
+// Timelines' Vertex - 단디+스냅 ()
+//notes: 단디+스냅
+dimwishlist:item=3055192515&perks=280464955,957782887
+
+
 // Autumn Wind - 사확장+머추 ()
-//notes: 사확장+머추
 dimwishlist:item=3110377595&perks=2846385770,460017080
 
 
 // Liminal Vigil - 영속/방아쇠+사확장(PVP) ()
-//notes: 영속/방아쇠+사확장(PVP)
 dimwishlist:item=3138208275&perks=1428297954,2846385770
 dimwishlist:item=3138208275&perks=1890422124,2846385770
 
 
 // Liminal Vigil - 묘비/영속+살상(PVE) ()
-//notes: 묘비/영속+살상(PVE)
 dimwishlist:item=3138208275&perks=124408337,1015611457
 dimwishlist:item=3138208275&perks=1428297954,1015611457
 
 
+// Memory Interdict - 충증+연쇄 ()
+//notes: 충증+연쇄
+dimwishlist:item=3165547384&perks=951095735,2396489472
+
+
 // Allied Demand - 사확장+강범 ()
-//notes: 사확장+강범
 dimwishlist:item=3166250992&perks=2846385770,591790007
 
 
+// Fractethyst - 빠무+초탄 ()
+//notes: 빠무+초탄
+dimwishlist:item=3184681056&perks=706527188,47981717
+
+
 // Vision of Confluence - 탄되+반딧불/광폭 ()
-//notes: 탄되+반딧불/광폭
 dimwishlist:item=3186018373&perks=3418782618,3824105627
 dimwishlist:item=3186018373&perks=3418782618,4104185692
+
+
+// Found Verdict - 슬라+초탄 ()
+//notes: 슬라+초탄
+dimwishlist:item=3197270240&perks=3161816588,47981717
 
 
 // Spare Rations - 슬라+초탄(PVP) ()
@@ -410,27 +677,22 @@ dimwishlist:item=3236112986&perks=247725512,3891536761
 
 
 // No Survivors - 사확장+대조(PVP) ()
-//notes: 사확장+대조(PVP)
 dimwishlist:item=3262192268&perks=2846385770,365154968
 
 
 // No Survivors - 폭전+백열(PVE) ()
-//notes: 폭전+백열(PVE)
 dimwishlist:item=3262192268&perks=3523296417,4293542123
 
 
 // Randy's Throwing Knife - 신속+살상 ()
-//notes: 신속+살상
 dimwishlist:item=3292795429&perks=247725512,1015611457
 
 
 // Randy's Throwing Knife - 신속+물진 ()
-//notes: 신속+물진
 dimwishlist:item=3292795429&perks=247725512,3891536761
 
 
 // Funnelweb - 연명+광폭 ()
-//notes: 연명+광폭
 dimwishlist:item=3341893443&perks=1820235745,4104185692
 
 
@@ -439,99 +701,149 @@ dimwishlist:item=3385326721&perks=1168162263,1015611457
 
 
 // Legal Action II - 무먹쟁+광란 ()
-//notes: 무먹쟁+광란
 dimwishlist:item=3409645497&perks=2779035018,3425386926
 
 
 // Legal Action II - 과잉+광폭 ()
-//notes: 과잉+광폭
 dimwishlist:item=3409645497&perks=3436462433,4104185692
 
 
+// Frozen Orbit - 집중/이표/살육+스냅 ()
+//notes: 집중/이표/살육+스냅
+dimwishlist:item=3473290087&perks=2866798147,957782887
+dimwishlist:item=3473290087&perks=588594999,957782887
+dimwishlist:item=3473290087&perks=2450788523,957782887
+
+
 // Night Watch - 신속+폭탄 ()
-//notes: 신속+폭탄
 dimwishlist:item=3504336176&perks=247725512,3038247973
 
 
 // Night Watch - 스냅+폭탄 ()
-//notes: 스냅+폭탄
 dimwishlist:item=3504336176&perks=957782887,3038247973
 
 
 // Coriolis Force - 무먹쟁+요동 ()
-//notes: 무먹쟁+요동
 dimwishlist:item=3512349612&perks=2779035018,2726471870
 
 
 // Pleiades Corrector - 무법+폭전 ()
-//notes: 무법+폭전
 dimwishlist:item=3556999246&perks=1168162263,3523296417
 
 
+// Typhon GL5 - 폭전+폭빛 ()
+//notes: 폭전+폭빛
+dimwishlist:item=3568377122&perks=3523296417,3194351027
+
+
+// Hoosegow - 자장+집탄 ()
+//notes: 자장+집탄
+dimwishlist:item=3669616453&perks=3300816228,1275731761
+
+
+// Old Sterling - 탄되감+화음 ()
+//notes: 탄되감+화음
+dimwishlist:item=3678653083&perks=3418782618,438098033
+
+
+// Old Sterling - 탄되감+광폭 ()
+//notes: 탄되감+광폭
+dimwishlist:item=3678653083&perks=3418782618,4104185692
+
+
+// Dead Weight - 무덤+원투 ()
+//notes: 무덤+원투
+dimwishlist:item=3738678140&perks=1631667848,2679249093
+
+
 // Long Shadow - 신속+삼중 ()
-//notes: 신속+삼중
 dimwishlist:item=3745990145&perks=247725512,3400784728
 
 
 // Long Shadow - 야전+삼중 ()
-//notes: 야전+삼중
 dimwishlist:item=3745990145&perks=2869569095,3400784728
 
 
 // Hung Jury SR4 - 사전+물진 ()
-//notes: 사전+물진
 dimwishlist:item=3832743906&perks=3700496672,3891536761
 
 
 // Hung Jury SR4 - 신속+반딧불/물진 ()
-//notes: 신속+반딧불/물진
 dimwishlist:item=3832743906&perks=247725512,3824105627
 dimwishlist:item=3832743906&perks=247725512,3891536761
 
 
 // Seventh Seraph SI-2 - 위감+포위(PVP) ()
-//notes: 위감+포위(PVP)
 dimwishlist:item=3937866388&perks=4071163871,3708227201
 
 
 // Staccato-46 - 삼중+폭탄/백열 ()
-//notes: 삼중+폭탄/백열
 dimwishlist:item=4019668921&perks=3400784728,3038247973
 dimwishlist:item=4019668921&perks=3400784728,4293542123
 
 
+// Prophet of Doom - 무먹쟁+원투 ()
+//notes: 무먹쟁+원투
+dimwishlist:item=4020742303&perks=2779035018,2679249093
+
+
+// Bonechiller - 자장+폭전/초탄 ()
+//notes: 자장+폭전/초탄
+dimwishlist:item=4037745684&perks=3300816228,3523296417
+dimwishlist:item=4037745684&perks=3300816228,47981717
+
+
+// Hezen Vengeance - 범람/자장+치무 ()
+//notes: 범람/자장+치무
+dimwishlist:item=4050645223&perks=3643424744,1546637391
+dimwishlist:item=4050645223&perks=3300816228,1546637391
+
+
 // Pizzicato-22 - 영속+사확장 ()
-//notes: 영속+사확장
 dimwishlist:item=4100775158&perks=1428297954,2846385770
 
 
 // Pizzicato-22 - 야암+다처탄 ()
-//notes: 야암+다처탄
 dimwishlist:item=4100775158&perks=2010801679,2458213969
 
 
 // Snorri FR5 - 단디+고비탄(PVP) ()
-//notes: 단디+고비탄(PVP)
 dimwishlist:item=4114929480&perks=280464955,2213355989
 
 
 // Snorri FR5 - 강박+충점발(PVE) ()
-//notes: 강박+충점발(PVE)
 dimwishlist:item=4114929480&perks=671806388,1427256713
 
 
 // The Third Axiom - 무먹쟁+광란 ()
-//notes: 무먹쟁+광란
 dimwishlist:item=4156253727&perks=2779035018,3425386926
 
 
 // The Third Axiom - 사확장+초탄 ()
-//notes: 사확장+초탄
 dimwishlist:item=4156253727&perks=2846385770,47981717
 
 
 // 1000 Yard Stare - 빠무+스냅 ()
-//notes: 빠무+스냅
 dimwishlist:item=4164201232&perks=706527188,957782887
+
+
+// Empty Vessel - 혼란+자장+위험 ()
+//notes: 혼란+자장+위험
+dimwishlist:item=4255586669&perks=3032599245,3300816228,960810156
+
+
+// Empty Vessel - 자장+치무 ()
+//notes: 자장+치무
+dimwishlist:item=4255586669&perks=3300816228,1546637391
+
+
+// Last Man Standing - 초탄+원투 ()
+//notes: 초탄+원투
+dimwishlist:item=4287947559&perks=47981717,2679249093
+
+
+// Last Man Standing - 연명+불화 ()
+//notes: 연명+불화
+dimwishlist:item=4287947559&perks=1820235745,3978468247
 
 
