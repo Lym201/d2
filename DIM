@@ -23,22 +23,27 @@ dimwishlist:item=45643573&perks=2801223209,16392701,3523746922,1551736345
 
 
 // Ancient Gospel - 무법자+살상(PVE) ()
+//notes: 무법자+살상(PVE)
 dimwishlist:item=48643186&perks=1168162263,1015611457
 
 
 // Ancient Gospel - 신속+살상(PVE) ()
+//notes: 신속+살상(PVE)
 dimwishlist:item=48643186&perks=247725512,1015611457
 
 
 // Ancient Gospel - 신속+잠자리(PVE) ()
+//notes: 신속+잠자리(PVE)
 dimwishlist:item=48643186&perks=247725512,2848615171
 
 
 // Ancient Gospel - 신속+사확(PVP) ()
+//notes: 신속+사확(PVP)
 dimwishlist:item=48643186&perks=247725512,2846385770
 
 
 // Ancient Gospel - 폭눈+사확(PVP) ()
+//notes: 폭눈+사확(PVP)
 dimwishlist:item=48643186&perks=699525795,2846385770
 
 
@@ -214,6 +219,7 @@ dimwishlist:item=602618796&perks=1820235745,3425386926
 
 
 // Gallu RR3 - 집중/범람+스냅 ()
+//notes: 집중/범람+스냅
 dimwishlist:item=617501162&perks=2866798147,957782887
 dimwishlist:item=617501162&perks=3643424744,957782887
 
@@ -221,6 +227,12 @@ dimwishlist:item=617501162&perks=3643424744,957782887
 // Hand in Hand - 슬라+원투 ()
 //notes: 슬라+원투
 dimwishlist:item=664109750&perks=3161816588,2679249093
+
+
+// Albruna-D - 부삼치/부삼사(PVE) ()
+//notes: 부삼치/부삼사(PVE)
+dimwishlist:item=676270382&perks=1087426260,3400784728,1546637391
+dimwishlist:item=676270382&perks=1087426260,3400784728,1771339417
 
 
 // Arsenic Bite-4b - 광란/잠자리+폭촉 ()
@@ -291,6 +303,7 @@ dimwishlist:item=893527433&perks=3300816228,3523296417
 
 
 // Aurvandil FR6 - 재구성+냉탄 ()
+//notes: 재구성+냉탄
 dimwishlist:item=963710795&perks=1523832109,2978966579
 
 
@@ -553,10 +566,12 @@ dimwishlist:item=1851521408&perks=247725512,1015611457
 
 
 // Wendigo GL3 - 자장+폭빛(PVE) ()
+//notes: 자장+폭빛(PVE)
 dimwishlist:item=1854753404&perks=3300816228,3194351027
 
 
 // Wendigo GL3 - 충격증폭+사확장(PVP) ()
+//notes: 충격증폭+사확장(PVP)
 dimwishlist:item=1854753404&perks=951095735,2846385770
 
 
@@ -600,6 +615,14 @@ dimwishlist:item=2034215657&perks=1840239774,1885400500,3198323828,2923251173
 dimwishlist:item=2050789284&perks=1168162263,1015611457
 
 
+// Mercurial Overreach - 스냅/단디+이표/초탄 ()
+//notes: 스냅/단디+이표/초탄
+dimwishlist:item=2073794990&perks=957782887,588594999
+dimwishlist:item=2073794990&perks=957782887,47981717
+dimwishlist:item=2073794990&perks=280464955,588594999
+dimwishlist:item=2073794990&perks=280464955,47981717
+
+
 // Battle Scar - 사전/접회/영속+물진 ()
 //notes: 사전/접회/영속+물진
 dimwishlist:item=2099894368&perks=3700496672,3891536761
@@ -617,6 +640,13 @@ dimwishlist:item=2119346509&perks=3060983774,1523649716
 dimwishlist:item=2139640995&perks=3523296417,2396489472
 dimwishlist:item=2139640995&perks=1749209109,2396489472
 dimwishlist:item=2139640995&perks=3108830275,2396489472
+
+
+// Apostate - 무법/살육/단디+폭발 ()
+//notes: 무법/살육/단디+폭발
+dimwishlist:item=2164448701&perks=1168162263,3038247973
+dimwishlist:item=2164448701&perks=2450788523,3038247973
+dimwishlist:item=2164448701&perks=280464955,3038247973
 
 
 // Fatebringer - 폭발+반딧불(PVE) ()
@@ -646,11 +676,13 @@ dimwishlist:item=2231910050&perks=3523296417,1275731761
 
 
 // Fugue-55 - 정환+사선/치무 ()
+//notes: 정환+사선/치무
 dimwishlist:item=2233545123&perks=1354429876,1771339417
 dimwishlist:item=2233545123&perks=1354429876,1546637391
 
 
 // Fugue-55 - 집중+스냅 ()
+//notes: 집중+스냅
 dimwishlist:item=2233545123&perks=2866798147,957782887
 
 
@@ -851,6 +883,18 @@ dimwishlist:item=2776503072&perks=4267945040,2848615171
 dimwishlist:item=2776503072&perks=4267945040,2458213969
 
 
+// Eternity's Edge - 집강+포위/암칼 ()
+//notes: 집강+포위/암칼
+dimwishlist:item=2782325301&perks=1749209109,3708227201
+dimwishlist:item=2782325301&perks=1749209109,354401740
+
+
+// Crown-Splitter - 집강+치무/회칼 ()
+//notes: 집강+치무/회칼
+dimwishlist:item=2782325302&perks=1749209109,1546637391
+dimwishlist:item=2782325302&perks=1749209109,3913600130
+
+
 // Fortissimo-11 - 폭전+치무 ()
 //notes: 폭전+치무
 dimwishlist:item=2821430069&perks=3523296417,1546637391
@@ -879,6 +923,11 @@ dimwishlist:item=2852052802&perks=1820235745,124408337
 dimwishlist:item=2852052802&perks=3643424744,1546637391
 
 
+// Honor's Edge - 집강+포위 ()
+//notes: 집강+포위
+dimwishlist:item=2857348871&perks=1749209109,3708227201
+
+
 // Hailing Confusion - 무법+폭전 ()
 //notes: 무법+폭전
 dimwishlist:item=2870169846&perks=1168162263,3523296417
@@ -897,6 +946,12 @@ dimwishlist:item=2891672170&perks=3161816588,2679249093
 // Xenoclast IV - 무덤+원투 ()
 //notes: 무덤+원투
 dimwishlist:item=2891672170&perks=1631667848,2679249093
+
+
+// Loaded Question (Adept) - 범람+연사통/충점발 ()
+//notes: 범람+연사통/충점발
+dimwishlist:item=2914913838&perks=3643424744,2594592626
+dimwishlist:item=2914913838&perks=3643424744,1427256713
 
 
 // Out of Bounds - 폭전+아드 ()
@@ -991,6 +1046,12 @@ dimwishlist:item=3257091166&perks=1261178282,269888150,4085959009,1618208178
 dimwishlist:item=3257091167&perks=1261178282,269888150,1618208178,2541826827
 
 
+// Trinary System - 압박/단디+고비탄 ()
+//notes: 압박/단디+고비탄
+dimwishlist:item=3258665412&perks=1645158859,2213355989
+dimwishlist:item=3258665412&perks=280464955,2213355989
+
+
 // No Survivors - 사확장+대조(PVP) ()
 //notes: 사확장+대조(PVP)
 dimwishlist:item=3262192268&perks=2846385770,365154968
@@ -1007,6 +1068,13 @@ dimwishlist:item=3292795429&perks=247725512,1015611457
 
 // Randy's Throwing Knife - 신속+물진 ()
 dimwishlist:item=3292795429&perks=247725512,3891536761
+
+
+// Twilight Oath - 초탄/과잉/멀리건+스냅 ()
+//notes: 초탄/과잉/멀리건+스냅
+dimwishlist:item=3297863558&perks=47981717,957782887
+dimwishlist:item=3297863558&perks=3436462433,957782887
+dimwishlist:item=3297863558&perks=3513791699,957782887
 
 
 // Funnelweb - 연명+광폭 ()
@@ -1049,6 +1117,7 @@ dimwishlist:item=3504336176&perks=957782887,3038247973
 
 
 // Coriolis Force - 무먹쟁+요동 ()
+//notes: 무먹쟁+요동
 dimwishlist:item=3512349612&perks=2779035018,2726471870
 
 
@@ -1059,6 +1128,11 @@ dimwishlist:item=3556999246&perks=1168162263,3523296417
 // Typhon GL5 - 폭전+폭빛 ()
 //notes: 폭전+폭빛
 dimwishlist:item=3568377122&perks=3523296417,3194351027
+
+
+// Typhon GL5 - 폭전+냉탄 ()
+//notes: 폭전+냉탄
+dimwishlist:item=3568377122&perks=3523296417,2978966579
 
 
 // Phyllotactic Spiral - 접근회피+머추(PVP) ()
