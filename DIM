@@ -5,6 +5,11 @@ title:DIM
 dimwishlist:item=5159537&perks=2779035018,124408337
 
 
+// Long Arm - 신속+폭발 ()
+//notes: 신속+폭발
+dimwishlist:item=8293111&perks=247725512,3038247973
+
+
 // Subzero Salvo - 야암+폭전/연쇄/집탄 ()
 //notes: 야암+폭전/연쇄/집탄
 dimwishlist:item=42351395&perks=2010801679,3523296417
@@ -390,6 +395,11 @@ dimwishlist:item=1119734784&perks=1570042021,3425386926
 dimwishlist:item=1119734784&perks=2779035018,1015611457
 
 
+// Epochal Integration - 접회+백열 ()
+//notes: 접회+백열
+dimwishlist:item=1123421440&perks=3619207468,4293542123
+
+
 // New Pacific Epitaph - 폭전+아드/방향/축적 ()
 //notes: 폭전+아드/방향/축적
 dimwishlist:item=1125217994&perks=3523296417,11612903
@@ -481,10 +491,12 @@ dimwishlist:item=1513993763&perks=4071163871,3425386926
 
 
 // Seventh Seraph Officer Revolver - 재구성+치무 ()
+//notes: 재구성+치무
 dimwishlist:item=1555959830&perks=1523832109,1546637391
 
 
 // Seventh Seraph Officer Revolver - 재구성+화음 ()
+//notes: 재구성+화음
 dimwishlist:item=1555959830&perks=1523832109,438098033
 
 
@@ -675,6 +687,17 @@ dimwishlist:item=2209003210&perks=1645158859,2213355989
 dimwishlist:item=2231910050&perks=3523296417,1275731761
 
 
+// Roar of the Bear - 추적+치무/자장 ()
+//notes: 추적+치무/자장
+dimwishlist:item=2231910050&perks=3977735242,1546637391
+dimwishlist:item=2231910050&perks=3977735242,3300816228
+
+
+// Roar of the Bear - 충격+연쇄 ()
+//notes: 충격+연쇄
+dimwishlist:item=2231910050&perks=951095735,2396489472
+
+
 // Fugue-55 - 정환+사선/치무 ()
 //notes: 정환+사선/치무
 dimwishlist:item=2233545123&perks=1354429876,1771339417
@@ -689,6 +712,11 @@ dimwishlist:item=2233545123&perks=2866798147,957782887
 // Stochastic Variable - 무먹쟁+다처탄 ()
 //notes: 무먹쟁+다처탄
 dimwishlist:item=2272470786&perks=2779035018,2458213969
+
+
+// Wilderflight - 혼란+자장+치무 ()
+//notes: 혼란+자장+치무
+dimwishlist:item=2306182339&perks=3032599245,3300816228,1546637391
 
 
 // Lodbrok-C - 정환+대상조준 ()
@@ -771,6 +799,7 @@ dimwishlist:item=2496875173&perks=2779035018,3425386926
 
 
 // Lunulata-4b - 사확장+묘비 ()
+//notes: 사확장+묘비
 dimwishlist:item=2513965917&perks=2846385770,124408337
 
 
@@ -954,6 +983,12 @@ dimwishlist:item=2914913838&perks=3643424744,2594592626
 dimwishlist:item=2914913838&perks=3643424744,1427256713
 
 
+// Loaded Question (Adept) - 자장+연사통/충점발 ()
+//notes: 자장+연사통/충점발
+dimwishlist:item=2914913838&perks=3300816228,2594592626
+dimwishlist:item=2914913838&perks=3300816228,1427256713
+
+
 // Out of Bounds - 폭전+아드 ()
 //notes: 폭전+아드
 dimwishlist:item=2988121501&perks=3523296417,11612903
@@ -1029,10 +1064,12 @@ dimwishlist:item=3197270240&perks=3161816588,47981717
 
 
 // Spare Rations - 슬라+초탄(PVP) ()
+//notes: 슬라+초탄(PVP)
 dimwishlist:item=3236112986&perks=3161816588,47981717
 
 
 // Spare Rations - 신속+물진(PVE) ()
+//notes: 신속+물진(PVE)
 dimwishlist:item=3236112986&perks=247725512,3891536761
 
 
@@ -1122,6 +1159,7 @@ dimwishlist:item=3512349612&perks=2779035018,2726471870
 
 
 // Pleiades Corrector - 무법+폭전 ()
+//notes: 무법+폭전
 dimwishlist:item=3556999246&perks=1168162263,3523296417
 
 
