@@ -763,6 +763,14 @@ dimwishlist:item=1311684613&perks=1478423395,2822142346,424370782,2396489472
 dimwishlist:item=1311684613&perks=1478423395,2822142346,424370782,598607952
 
 
+// Qullim's Terminus - 모위능+살육 ()
+//notes: 모위능+살육
+dimwishlist:item=1321506184&perks=1583705720,557221067
+dimwishlist:item=1321506184&perks=1583705720,2896748467
+dimwishlist:item=1321506184&perks=1409206216,557221067
+dimwishlist:item=1321506184&perks=1409206216,2896748467
+
+
 // Combined Action - 터널+살상 ()
 //notes: 터널+살상
 dimwishlist:item=1331824604&perks=2946784966,1015611457
@@ -1233,6 +1241,11 @@ dimwishlist:item=2171478765&perks=1840239774,3142289711,3038247973,1015611457
 // Circular Logic - 무먹+부화 ()
 //notes: 무먹+부화
 dimwishlist:item=2187717691&perks=2779035018,831391274
+
+
+// Circular Logic - 선망+치무 ()
+//notes: 선망+치무
+dimwishlist:item=2187717691&perks=968510818,1546637391
 
 
 // Fixed Odds - 야전/무먹쟁+백열/살육 ()
@@ -2226,6 +2239,14 @@ dimwishlist:item=3890055324&perks=1347741687,1926441324
 
 // Seventh Seraph SI-2 - 위감+포위(PVP) ()
 dimwishlist:item=3937866388&perks=4071163871,3708227201
+
+
+// Midha's Reckoning - 가차없음+충점발 ()
+//notes: 가차없음+충점발
+dimwishlist:item=3969066556&perks=3108830275,1427256713
+dimwishlist:item=3969066556&perks=3108830275,254337357
+dimwishlist:item=3969066556&perks=855168139,1427256713
+dimwishlist:item=3969066556&perks=855168139,254337357
 
 
 // Staccato-46 - 삼중+폭탄/백열 ()
