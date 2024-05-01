@@ -693,6 +693,17 @@ dimwishlist:item=829330711&perks=1820235745,124408337
 dimwishlist:item=829330711&perks=2846385770,4082225868
 
 
+// Vengeful Whisper - 고탄성+소형+궁움+정밀+발사시간 ()
+//notes: 고탄성+소형+궁움+정밀+발사시간
+dimwishlist:item=839344841&perks=2801223209,16392701,201365942,555281244
+
+
+// Vengeful Whisper - 폭촉/베기+부화 ()
+//notes: 폭촉/베기+부화
+dimwishlist:item=839344841&perks=3365897133,831391274
+dimwishlist:item=839344841&perks=923806249,831391274
+
+
 // Cold Comfort - 빠발+충케/합금+선망+미끼/폭빛/양각대 ()
 //notes: 빠발+충케/합금+선망+미끼/폭빛/양각대
 dimwishlist:item=839786290&perks=3525010810,3796465595,968510818,3078487919
@@ -2237,6 +2248,11 @@ dimwishlist:item=2782325302&perks=1749209109,1546637391
 dimwishlist:item=2782325302&perks=1749209109,3913600130
 
 
+// Naeem's Lance - 재구+정밀 ()
+//notes: 재구+정밀
+dimwishlist:item=2806569825&perks=1523832109,555281244
+
+
 // Fortissimo-11 - 폭전+치무 ()
 //notes: 폭전+치무
 dimwishlist:item=2821430069&perks=3523296417,1546637391
@@ -3195,6 +3211,12 @@ dimwishlist:item=4095896073&perks=201365942,3365897133
 dimwishlist:item=4095896073&perks=201365942,247725512
 
 
+// A Sudden Death - 위감/슬라+초탄 ()
+//notes: 위감/슬라+초탄
+dimwishlist:item=4097972038&perks=4071163871,47981717
+dimwishlist:item=4097972038&perks=3161816588,47981717
+
+
 // Pizzicato-22 - 영속+사확장 ()
 //notes: 영속+사확장
 dimwishlist:item=4100775158&perks=1428297954,2846385770
@@ -3255,6 +3277,11 @@ dimwishlist:item=4230965989&perks=848860060,1771339417
 dimwishlist:item=4230965989&perks=848860060,395388285
 dimwishlist:item=4230965989&perks=848860060,2896038713
 dimwishlist:item=4230965989&perks=848860060,2402480669
+
+
+// Marcato-45 - 폭전+부화 ()
+//notes: 폭전+부화
+dimwishlist:item=4233375372&perks=3523296417,831391274
 
 
 // Heritage - 속사+비조준(PVP) ()
