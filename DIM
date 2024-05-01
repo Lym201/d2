@@ -556,6 +556,33 @@ dimwishlist:item=548809020&perks=202670084,3142289711,1168162263,699525795
 dimwishlist:item=548809020&perks=202670084,3142289711,1168162263,2458213969
 
 
+// Forbearance - 폭전+연쇄 ()
+//notes: 폭전+연쇄
+dimwishlist:item=568611921&perks=3523296417,2396489472
+
+
+// The Mountaintop - 강성+내파/쇄기+자장/충증+치무/재결합 ()
+//notes: 강성+내파/쇄기+자장/충증+치무/재결합
+dimwishlist:item=568611922&perks=1844523823,3492396210,3300816228,1546637391
+dimwishlist:item=568611922&perks=1844523823,3492396210,3300816228,469285294
+dimwishlist:item=568611922&perks=1844523823,3492396210,951095735,1546637391
+dimwishlist:item=568611922&perks=1844523823,3492396210,951095735,469285294
+dimwishlist:item=568611922&perks=1844523823,3301904089,3300816228,1546637391
+dimwishlist:item=568611922&perks=1844523823,3301904089,3300816228,469285294
+dimwishlist:item=568611922&perks=1844523823,3301904089,951095735,1546637391
+dimwishlist:item=568611922&perks=1844523823,3301904089,951095735,469285294
+
+
+// Edge Transit - 증강+선망+미끼 ()
+//notes: 증강+선망+미끼
+dimwishlist:item=568611923&perks=1771897777,968510818,3078487919
+
+
+// Edge Transit - 쇄기+자장+미끼 ()
+//notes: 쇄기+자장+미끼
+dimwishlist:item=568611923&perks=3301904089,3300816228,3078487919
+
+
 // Contingency Plan - 터널+살상(PVP) ()
 //notes: 터널+살상(PVP)
 dimwishlist:item=577528837&perks=2946784966,1015611457
@@ -801,6 +828,16 @@ dimwishlist:item=1028124540&perks=2779035018,2048641572
 // Bottom Dollar - 슬라+폭발(PVP) ()
 //notes: 슬라+폭발(PVP)
 dimwishlist:item=1046651176&perks=3161816588,3038247973
+
+
+// The Recluse - 격퇴+불안정 ()
+//notes: 격퇴+불안정
+dimwishlist:item=1050806815&perks=776531651,2048641572
+
+
+// The Recluse - 연명+필사(흰매전용) ()
+//notes: 연명+필사(흰매전용)
+dimwishlist:item=1050806815&perks=1820235745,2109543898
 
 
 // BrayTech Osprey (Adept) - 야전/선망+지인 ()
@@ -1080,6 +1117,13 @@ dimwishlist:item=1403800851&perks=957782887,588594999
 dimwishlist:item=1403800851&perks=957782887,47981717
 
 
+// Hung Jury SR4 - 물진+폭발/정밀/반딧불 ()
+//notes: 물진+폭발/정밀/반딧불
+dimwishlist:item=1453235079&perks=3891536761,3038247973
+dimwishlist:item=1453235079&perks=3891536761,555281244
+dimwishlist:item=1453235079&perks=3891536761,3824105627
+
+
 // Nasreddin - 집강+회오리 ()
 //notes: 집강+회오리
 dimwishlist:item=1456017061&perks=1749209109,3913600130
@@ -1241,6 +1285,12 @@ dimwishlist:item=1687353095&perks=1820235745,3425386926
 dimwishlist:item=1687353095&perks=1428297954,3425386926
 
 
+// Crux Termination IV - 재구성+양각/폭빛 ()
+//notes: 재구성+양각/폭빛
+dimwishlist:item=1719687748&perks=1523832109,1439600632
+dimwishlist:item=1719687748&perks=1523832109,3194351027
+
+
 // Royal Executioner - 선망/황탄+충점발 ()
 //notes: 선망/황탄+충점발
 dimwishlist:item=1720503118&perks=968510818,1427256713
@@ -1312,6 +1362,19 @@ dimwishlist:item=1786797708&perks=3643424744,3708227201
 dimwishlist:item=1788603939&perks=1820235745,4104185692
 
 
+// Falling Guillotine - 인내+열칼 ()
+//notes: 인내+열칼
+dimwishlist:item=1815105249&perks=1261178282,2077819806
+
+
+// Falling Guillotine - 들쭉+검술사+광폭/치무+미끼/포위 ()
+//notes: 들쭉+검술사+광폭/치무+미끼/포위
+dimwishlist:item=1815105249&perks=2827049491,269888150,4104185692,3078487919
+dimwishlist:item=1815105249&perks=2827049491,269888150,4104185692,3708227201
+dimwishlist:item=1815105249&perks=2827049491,269888150,1546637391,3078487919
+dimwishlist:item=1815105249&perks=2827049491,269888150,1546637391,3708227201
+
+
 // Nature of the Beast - 빠무/스냅+사확(PVP) ()
 dimwishlist:item=1835747805&perks=706527188,2846385770
 dimwishlist:item=1835747805&perks=957782887,2846385770
@@ -1342,6 +1405,17 @@ dimwishlist:item=1856262127&perks=2779035018,124408337
 // Something New - 원천+폭전 ()
 //notes: 원천+폭전
 dimwishlist:item=1856262127&perks=3592538738,3523296417
+
+
+// Twilight Oath - 선망+치무/정밀 ()
+//notes: 선망+치무/정밀
+dimwishlist:item=1874424704&perks=968510818,1546637391
+dimwishlist:item=1874424704&perks=968510818,555281244
+
+
+// Twilight Oath - 초탄+스냅 ()
+//notes: 초탄+스냅
+dimwishlist:item=1874424704&perks=47981717,957782887
 
 
 // Kept Confidence - 망단/풀보어+정조탄+빠무/살바+건샷/폭눈(PVP) ()
@@ -1378,6 +1452,16 @@ dimwishlist:item=1875512595&perks=202670084,3142289711,4207509907,1365187766
 dimwishlist:item=1875512595&perks=202670084,3142289711,4207509907,4200236906
 dimwishlist:item=1875512595&perks=202670084,3142289711,4207509907,699525795
 dimwishlist:item=1875512595&perks=202670084,3142289711,4207509907,3719974635
+
+
+// Hammerhead - 탄되+맹공 ()
+//notes: 탄되+맹공
+dimwishlist:item=1896309757&perks=3418782618,95528736
+
+
+// Hammerhead - 광란+살육 ()
+//notes: 광란+살육
+dimwishlist:item=1896309757&perks=3425386926,557221067
 
 
 // Blowout - 야전+폭빛/치무 ()
@@ -1945,6 +2029,11 @@ dimwishlist:item=2563012876&perks=1047830412,3142289711,4071163871,47981717
 dimwishlist:item=2563012876&perks=1047830412,3142289711,1428297954,47981717
 
 
+// Scalar Potential - 화살촉+전술+광휘+황트+재장전 ()
+//notes: 화살촉+전술+광휘+황트+재장전
+dimwishlist:item=2563668388&perks=839105230,106909392,3828510309,2610012052
+
+
 // Fioritura-59 - 위감+살탄(PVP) ()
 //notes: 위감+살탄(PVP)
 dimwishlist:item=2566006935&perks=4071163871,1015611457
@@ -2079,6 +2168,13 @@ dimwishlist:item=2742838700&perks=3643424744,3425386926
 // True Prophecy - 사확+폭탄(PVP) ()
 //notes: 사확+폭탄(PVP)
 dimwishlist:item=2742838700&perks=2846385770,3038247973
+
+
+// Midnight Coup - 망단+정조+폭발/반딧불/사전+물진+사거리 ()
+//notes: 망단+정조+폭발/반딧불/사전+물진+사거리
+dimwishlist:item=2763843898&perks=3250034553,3142289711,3038247973,3891536761
+dimwishlist:item=2763843898&perks=3250034553,3142289711,3824105627,3891536761
+dimwishlist:item=2763843898&perks=3250034553,3142289711,3700496672,3891536761
 
 
 // Nox Perennial V - 선망/황탄+연사통(PVE) ()
@@ -2787,6 +2883,16 @@ dimwishlist:item=3568377122&perks=3523296417,2978966579
 dimwishlist:item=3573686365&perks=1645158859,2213355989
 
 
+// Ros Arago IV - 탄되감+맹공격 ()
+//notes: 탄되감+맹공격
+dimwishlist:item=3583275737&perks=3418782618,95528736
+
+
+// Succession - 재구성+치무 ()
+//notes: 재구성+치무
+dimwishlist:item=3612338554&perks=1523832109,1546637391
+
+
 // Phyllotactic Spiral - 세로홈/화살촉/소구경+도탄+접회+머추+사거리+상쇄(PVP) ()
 //notes: 세로홈/화살촉/소구경+도탄+접회+머추+사거리+상쇄(PVP)
 dimwishlist:item=3635821806&perks=1840239774,1885400500,3619207468,460017080
@@ -2853,6 +2959,16 @@ dimwishlist:item=3710082365&perks=852209214,16392701,951095735,1683379515
 dimwishlist:item=3710082365&perks=852209214,16392701,951095735,2216471363
 dimwishlist:item=3710082365&perks=852209214,16392701,3878366039,1683379515
 dimwishlist:item=3710082365&perks=852209214,16392701,3878366039,2216471363
+
+
+// Waking Vigil - 무법자+볼트샷 ()
+//notes: 무법자+볼트샷
+dimwishlist:item=3723679465&perks=1168162263,2173046394
+
+
+// Waking Vigil - 신속+살상 ()
+//notes: 신속+살상
+dimwishlist:item=3723679465&perks=247725512,1015611457
 
 
 // Dead Weight - 자장/무덤/황탄+트렌치/원투/치무 ()
@@ -2940,6 +3056,11 @@ dimwishlist:item=3849810018&perks=3301904089,3528046508,3523296417
 dimwishlist:item=3849810018&perks=3301904089,3528046508,1906147653
 dimwishlist:item=3849810018&perks=3301904089,3528046508,691659142
 dimwishlist:item=3849810018&perks=3301904089,3528046508,536173722
+
+
+// Elsie's Rifle - 무먹+살상 ()
+//notes: 무먹+살상
+dimwishlist:item=3851176026&perks=2779035018,1015611457
 
 
 // Hawkmoon - 이표 ()
