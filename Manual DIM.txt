@@ -1,5 +1,6 @@
 title:Manual DIM
 
+//notes: 
 dimwishlist:item=2372514509&perks=2779035018,1015611457
 dimwishlist:item=2372514509&perks=1119449540,2048641572
 dimwishlist:item=2372514509&perks=839105230,3619207468,1015611457
