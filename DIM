@@ -414,8 +414,7 @@ dimwishlist:item=413901114&perks=2284787283,3194351027
 dimwishlist:item=413901114&perks=2284787283,2048641572
 
 
-// Controlling Vision - 쓰레기 ()
-//notes: 쓰레기
+// Controlling Vision ()
 dimwishlist:item=423343404&perks=
 
 
@@ -808,6 +807,11 @@ dimwishlist:item=867154247&perks=2869569095,3194351027
 dimwishlist:item=867154247&perks=2869569095,1546637391
 
 
+// Marsilion-C - 선망+직렬 ()
+//notes: 선망+직렬
+dimwishlist:item=867154247&perks=968510818,3751912585
+
+
 // Retold Tale - 풀초크+정조준+빠무+스냅(PVP) ()
 //notes: 풀초크+정조준+빠무+스냅(PVP)
 dimwishlist:item=871900124&perks=1047830412,3142289711,706527188,957782887
@@ -1179,6 +1183,11 @@ dimwishlist:item=1296429091&perks=1821614984,2679249093
 dimwishlist:item=1296429091&perks=1821614984,4104185692
 
 
+// Perfect Paradox - 근접+원투 ()
+//notes: 근접+원투
+dimwishlist:item=1298672084&perks=691659142,2679249093
+
+
 // Brigand's Law - 위감+볼트샷 ()
 //notes: 위감+볼트샷
 dimwishlist:item=1298815317&perks=4071163871,2173046394
@@ -1214,6 +1223,11 @@ dimwishlist:item=1321506184&perks=1409206216,2896748467
 // Combined Action - 터널+살상 ()
 //notes: 터널+살상
 dimwishlist:item=1331824604&perks=2946784966,1015611457
+
+
+// The Slammer (Adept) - 들쭉+검술+열칼+차강 ()
+//notes: 들쭉+검술+열칼+차강
+dimwishlist:item=1354727549&perks=3666208348,269888150,2077819806,3650930298
 
 
 // Taraxippos - 건샷+폭발 ()
@@ -1398,9 +1412,12 @@ dimwishlist:item=1679868061&perks=1300023272,791862061,191144788,47981717
 dimwishlist:item=1679868061&perks=1300023272,791862061,191144788,1370847713
 
 
-// Ergo Sum - 검술사 ()
-//notes: 검술사
-dimwishlist:item=1681583613&perks=269888150
+// Ergo Sum - 인내/들쭉+검술사/중형 ()
+//notes: 인내/들쭉+검술사/중형
+dimwishlist:item=1681583613&perks=1261178282,269888150
+dimwishlist:item=1681583613&perks=1261178282,2349202967
+dimwishlist:item=1681583613&perks=3666208348,269888150
+dimwishlist:item=1681583613&perks=3666208348,2349202967
 
 
 // Redback-5si - 연명/영속+광란 ()
@@ -2907,12 +2924,10 @@ dimwishlist:item=3236112986&perks=202670084,1885400500,247725512,47981717
 dimwishlist:item=3242168339&perks=247725512,3038247973
 
 
-// Warden's Law (Adept) - 정환+치무 ()
-//notes: 정환+치무
-dimwishlist:item=3250744600&perks=1354429876,1546637391
-dimwishlist:item=3250744600&perks=1354429876,3418165135
-dimwishlist:item=3250744600&perks=848860060,1546637391
-dimwishlist:item=3250744600&perks=848860060,3418165135
+// Warden's Law (Adept) - 세로홈+전술+광휘/정환+치무+조작 ()
+//notes: 세로홈+전술+광휘/정환+치무+조작
+dimwishlist:item=3250744600&perks=1840239774,106909392,3828510309,1546637391
+dimwishlist:item=3250744600&perks=1840239774,106909392,1354429876,1546637391
 
 
 // Half-Truths - 인내+검술사+집강+열칼 ()
