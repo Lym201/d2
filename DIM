@@ -414,6 +414,11 @@ dimwishlist:item=413901114&perks=2284787283,3194351027
 dimwishlist:item=413901114&perks=2284787283,2048641572
 
 
+// Insurmountable - 격퇴+불안정 ()
+//notes: 격퇴+불안정
+dimwishlist:item=414045521&perks=776531651,2048641572
+
+
 // Controlling Vision ()
 dimwishlist:item=423343404&perks=
 
@@ -474,6 +479,12 @@ dimwishlist:item=471518543&perks=1820235745,3824105627
 // Corrective Measure - 탄되+고비탄 ()
 //notes: 탄되+고비탄
 dimwishlist:item=471518543&perks=3418782618,2213355989
+
+
+// Tinasha's Mastery - 광휘/충증+냉탄 ()
+//notes: 광휘/충증+냉탄
+dimwishlist:item=480368036&perks=3828510309,2978966579
+dimwishlist:item=480368036&perks=951095735,2978966579
 
 
 // Rufus's Fury - 이표+친화(PVP) ()
@@ -754,6 +765,11 @@ dimwishlist:item=817909300&perks=1556840489,2173046394
 // Gnawing Hunger - 화살촉+부가+야전+무뢰한 ()
 //notes: 화살촉+부가+야전+무뢰한
 dimwishlist:item=821154603&perks=839105230,1087426260,2869569095,4082225868
+
+
+// Noxious Vetiver - 가차+충격 ()
+//notes: 가차+충격
+dimwishlist:item=825495813&perks=3108830275,3966416502
 
 
 // Peacebond - 연명+묘비 ()
@@ -1760,6 +1776,12 @@ dimwishlist:item=2034215657&perks=3250034553,679225683,3198323828,1015611457
 dimwishlist:item=2034215657&perks=3250034553,679225683,3198323828,2923251173
 
 
+// Wicked Sister - 선망+미끼/직렬 ()
+//notes: 선망+미끼/직렬
+dimwishlist:item=2039776723&perks=3987942396,3078487919
+dimwishlist:item=2039776723&perks=3987942396,3751912585
+
+
 // Stars in Shadow - 무법+살상 ()
 dimwishlist:item=2050789284&perks=1168162263,1015611457
 
@@ -1852,6 +1874,11 @@ dimwishlist:item=2119346509&perks=202670084,1885400500,3060983774,4200236906
 //notes: 무먹쟁/위감+광폭(PVE)
 dimwishlist:item=2121785039&perks=2779035018,4104185692
 dimwishlist:item=2121785039&perks=4071163871,4104185692
+
+
+// Sojourner's Tale - 치탄+백열 ()
+//notes: 치탄+백열
+dimwishlist:item=2130875369&perks=3017780555,4293542123
 
 
 // Hero of Ages - 폭전/집강/가차+연쇄 ()
@@ -2320,6 +2347,23 @@ dimwishlist:item=2595497736&perks=402033656,2224838837
 dimwishlist:item=2595497736&perks=402033656,3102670337
 
 
+// Chroma Rush - 연명+물진 ()
+//notes: 연명+물진
+dimwishlist:item=2598420927&perks=1820235745,3891536761
+
+
+// Liturgy - 서리+냉탄 ()
+//notes: 서리+냉탄
+dimwishlist:item=2599338624&perks=1955165503,2978966579
+
+
+// Bitter/Sweet - 선망+미끼/폭빛/직렬 ()
+//notes: 선망+미끼/폭빛/직렬
+dimwishlist:item=2599338625&perks=3987942396,3078487919
+dimwishlist:item=2599338625&perks=3987942396,3194351027
+dimwishlist:item=2599338625&perks=3987942396,3751912585
+
+
 // Astral Horizon - 소구경/총열덮개+정조탄+위감/슬라/과잉+초탄(PVP) ()
 //notes: 소구경/총열덮개+정조탄+위감/슬라/과잉+초탄(PVP)
 dimwishlist:item=2653171213&perks=1482024992,3142289711,4071163871,47981717
@@ -2399,6 +2443,13 @@ dimwishlist:item=2742838700&perks=3643424744,3425386926
 // True Prophecy - 사확+폭탄(PVP) ()
 //notes: 사확+폭탄(PVP)
 dimwishlist:item=2742838700&perks=2846385770,3038247973
+
+
+// Ignition Code - 슬라/야암/황탄+치무 ()
+//notes: 슬라/야암/황탄+치무
+dimwishlist:item=2761869150&perks=3161816588,1546637391
+dimwishlist:item=2761869150&perks=2010801679,1546637391
+dimwishlist:item=2761869150&perks=1556840489,1546637391
 
 
 // Midnight Coup - 망단+정조+폭발/반딧불/사전+물진+사거리 ()
@@ -2498,6 +2549,11 @@ dimwishlist:item=2821677368&perks=3418782618,555281244
 dimwishlist:item=2821677368&perks=3418782618,332733060
 dimwishlist:item=2821677368&perks=1563455254,555281244
 dimwishlist:item=2821677368&perks=1563455254,332733060
+
+
+// Exuviae - 서리+묘비 ()
+//notes: 서리+묘비
+dimwishlist:item=2823644677&perks=1955165503,124408337
 
 
 // Origin Story - 폭전+물진 ()
@@ -2786,6 +2842,11 @@ dimwishlist:item=3103325054&perks=839105230,2420895100,848860060,365154968
 dimwishlist:item=3103325054&perks=839105230,2420895100,848860060,2939589096
 
 
+// PLUG ONE.1 (Adept) - 재구성+충점발 ()
+//notes: 재구성+충점발
+dimwishlist:item=3106557243&perks=1523832109,1427256713
+
+
 // Beloved - 스냅+이표/빠무(PVP) ()
 //notes: 스냅+이표/빠무(PVP)
 dimwishlist:item=3107853529&perks=957782887,588594999
@@ -2984,6 +3045,11 @@ dimwishlist:item=3292795429&perks=247725512,1015611457
 dimwishlist:item=3292795429&perks=247725512,3891536761
 
 
+// PLUG ONE.1 - 재구성+충점발 ()
+//notes: 재구성+충점발
+dimwishlist:item=3293524502&perks=1523832109,1427256713
+
+
 // Twilight Oath - 초탄/과잉/멀리건+스냅 ()
 //notes: 초탄/과잉/멀리건+스냅
 dimwishlist:item=3297863558&perks=47981717,957782887
@@ -3135,6 +3201,11 @@ dimwishlist:item=3409645497&perks=2779035018,3425386926
 dimwishlist:item=3409645497&perks=3436462433,4104185692
 
 
+// Red Tape - 서리+묘비 ()
+//notes: 서리+묘비
+dimwishlist:item=3423493037&perks=1955165503,124408337
+
+
 // Lethal Abundance - 접회+대조 ()
 //notes: 접회+대조
 dimwishlist:item=3428407746&perks=3619207468,365154968
@@ -3143,6 +3214,11 @@ dimwishlist:item=3428407746&perks=3619207468,365154968
 // Lethal Abundance - 베기+맹공격 ()
 //notes: 베기+맹공격
 dimwishlist:item=3428407746&perks=923806249,95528736
+
+
+// Gridskipper - 격퇴+불안정 ()
+//notes: 격퇴+불안정
+dimwishlist:item=3433930495&perks=776531651,2048641572
 
 
 // Wolftone Draw - 궁움+광폭 ()
@@ -3162,6 +3238,11 @@ dimwishlist:item=3473290087&perks=2450788523,957782887
 dimwishlist:item=3473290087&perks=3400784728,1546637391
 dimwishlist:item=3473290087&perks=3300816228,1546637391
 dimwishlist:item=3473290087&perks=1556840489,1546637391
+
+
+// Mistral Lift - 재구+미끼 ()
+//notes: 재구+미끼
+dimwishlist:item=3483485727&perks=1523832109,3078487919
 
 
 // Palmyra-B - 자장+폭빛/냉탄 ()
@@ -3229,6 +3310,11 @@ dimwishlist:item=3610521673&perks=1354429876,1546637391
 //notes: 황탄/광탄+치무
 dimwishlist:item=3610521673&perks=1556840489,1546637391
 dimwishlist:item=3610521673&perks=2284787283,1546637391
+
+
+// Live Fire - 서리+묘비 ()
+//notes: 서리+묘비
+dimwishlist:item=3612142623&perks=1955165503,124408337
 
 
 // Succession - 재구성+치무 ()
@@ -3357,6 +3443,16 @@ dimwishlist:item=3745990145&perks=247725512,3400784728
 
 // Long Shadow - 야전+삼중 ()
 dimwishlist:item=3745990145&perks=2869569095,3400784728
+
+
+// Legato-11 - 치탄/자장+백열/치무/직렬 ()
+//notes: 치탄/자장+백열/치무/직렬
+dimwishlist:item=3753063346&perks=3017780555,4293542123
+dimwishlist:item=3753063346&perks=3017780555,1546637391
+dimwishlist:item=3753063346&perks=3017780555,3751912585
+dimwishlist:item=3753063346&perks=3300816228,4293542123
+dimwishlist:item=3753063346&perks=3300816228,1546637391
+dimwishlist:item=3753063346&perks=3300816228,3751912585
 
 
 // The Riposte - 살바+황트 ()
