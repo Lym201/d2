@@ -1145,12 +1145,17 @@ dimwishlist:item=1216319404&perks=1840239774,3142289711,3038247973,699525795
 dimwishlist:item=1216319404&perks=1840239774,3142289711,3038247973,1015611457
 
 
-// Maahes HC4 - 격퇴/신속+잠자리/불안정 ()
-//notes: 격퇴/신속+잠자리/불안정
-dimwishlist:item=1246793994&perks=776531651,2848615171
-dimwishlist:item=1246793994&perks=776531651,2048641572
-dimwishlist:item=1246793994&perks=247725512,2848615171
-dimwishlist:item=1246793994&perks=247725512,2048641572
+// Maahes HC4 - 격퇴/가차/신속+불안정/잠자리/광폭 ()
+//notes: 격퇴/가차/신속+불안정/잠자리/광폭
+dimwishlist:item=1246793994&perks=106909392,776531651,2048641572
+dimwishlist:item=1246793994&perks=106909392,776531651,2848615171
+dimwishlist:item=1246793994&perks=106909392,776531651,4104185692
+dimwishlist:item=1246793994&perks=106909392,3108830275,2048641572
+dimwishlist:item=1246793994&perks=106909392,3108830275,2848615171
+dimwishlist:item=1246793994&perks=106909392,3108830275,4104185692
+dimwishlist:item=1246793994&perks=106909392,247725512,2048641572
+dimwishlist:item=1246793994&perks=106909392,247725512,2848615171
+dimwishlist:item=1246793994&perks=106909392,247725512,4104185692
 
 
 // Sweet Sorrow - 모위능+모위하 ()
@@ -1210,6 +1215,12 @@ dimwishlist:item=1298815317&perks=4071163871,2173046394
 dimwishlist:item=1298815317&perks=4071163871,1720528630
 dimwishlist:item=1298815317&perks=494941759,2173046394
 dimwishlist:item=1298815317&perks=494941759,1720528630
+
+
+// Unsworn - 사전/탄되+기폭 ()
+//notes: 사전/탄되+기폭
+dimwishlist:item=1303313141&perks=3700496672,4198902903
+dimwishlist:item=1303313141&perks=3418782618,4198902903
 
 
 // Dimensional Hypotrochoid - 야전+치무(리븐딜용) ()
@@ -2010,6 +2021,18 @@ dimwishlist:item=2221264583&perks=1906147653,11612903
 dimwishlist:item=2221264583&perks=1906147653,2422968039
 
 
+// Unworthy - 반딧/신속+볼트샷/휘폭 ()
+dimwishlist:item=2226158470&perks=3824105627,2173046394
+dimwishlist:item=2226158470&perks=3824105627,3218042543
+dimwishlist:item=2226158470&perks=247725512,2173046394
+dimwishlist:item=2226158470&perks=247725512,3218042543
+
+
+// Unworthy - 탄되+정밀 ()
+//notes: 탄되+정밀
+dimwishlist:item=2226158470&perks=3418782618,555281244
+
+
 // Roar of the Bear - 폭전+집탄 ()
 //notes: 폭전+집탄
 dimwishlist:item=2231910050&perks=3523296417,1275731761
@@ -2183,6 +2206,22 @@ dimwishlist:item=2465372924&perks=3643424744,3891536761
 dimwishlist:item=2465372924&perks=1820235745,3891536761
 
 
+// Unloved - 부화/잠자리/신속+촌열/초인과/원소/광폭 ()
+//notes: 부화/잠자리/신속+촌열/초인과/원소/광폭
+dimwishlist:item=2485881870&perks=831391274,960997401
+dimwishlist:item=2485881870&perks=831391274,1089671869
+dimwishlist:item=2485881870&perks=831391274,3215448563
+dimwishlist:item=2485881870&perks=831391274,4104185692
+dimwishlist:item=2485881870&perks=2848615171,960997401
+dimwishlist:item=2485881870&perks=2848615171,1089671869
+dimwishlist:item=2485881870&perks=2848615171,3215448563
+dimwishlist:item=2485881870&perks=2848615171,4104185692
+dimwishlist:item=2485881870&perks=247725512,960997401
+dimwishlist:item=2485881870&perks=247725512,1089671869
+dimwishlist:item=2485881870&perks=247725512,3215448563
+dimwishlist:item=2485881870&perks=247725512,4104185692
+
+
 // CALUS Mini-Tool - 가차/위감/무덤+백열 ()
 //notes: 가차/위감/무덤+백열
 dimwishlist:item=2490988246&perks=3108830275,4293542123
@@ -2225,6 +2264,13 @@ dimwishlist:item=2496875173&perks=1820235745,4104185692
 dimwishlist:item=2496875173&perks=1820235745,3425386926
 dimwishlist:item=2496875173&perks=2779035018,4104185692
 dimwishlist:item=2496875173&perks=2779035018,3425386926
+
+
+// Midnight Coup - 망단+정조+폭발/반딧불/사전+물진+사거리 ()
+//notes: 망단+정조+폭발/반딧불/사전+물진+사거리
+dimwishlist:item=2499720827&perks=3250034553,3142289711,3038247973,3891536761
+dimwishlist:item=2499720827&perks=3250034553,3142289711,3824105627,3891536761
+dimwishlist:item=2499720827&perks=3250034553,3142289711,3700496672,3891536761
 
 
 // Unending Tempest - 동흔감/살바/이표/영속+대조/여집/방당(PVP) ()
@@ -3117,6 +3163,18 @@ dimwishlist:item=3347946548&perks=839105230,1687452232,3442762221,2594592626
 dimwishlist:item=3347946548&perks=839105230,1687452232,3442762221,2037312142
 
 
+// Unvoiced - 방향/정환/선무+미끼 ()
+//notes: 방향/정환/선무+미끼
+dimwishlist:item=3360937899&perks=3201496230,3078487919
+dimwishlist:item=3360937899&perks=1354429876,3078487919
+dimwishlist:item=3360937899&perks=3987942396,3078487919
+
+
+// Unvoiced - 불안+사기 ()
+//notes: 불안+사기
+dimwishlist:item=3360937899&perks=2048641572,1464081238
+
+
 // Bequest - 들쭉+파열+가차+포위 ()
 //notes: 들쭉+파열+가차+포위
 dimwishlist:item=3366545721&perks=3666208348,3625355092,3108830275,3708227201
@@ -3465,6 +3523,18 @@ dimwishlist:item=3754408118&perks=2450788523,2610012052
 dimwishlist:item=3754408118&perks=776531651,2048641572
 
 
+// Admetus-D - 격퇴+위축/사기 ()
+//notes: 격퇴+위축/사기
+dimwishlist:item=3776430252&perks=776531651,1134488199
+dimwishlist:item=3776430252&perks=776531651,1464081238
+
+
+// Admetus-D - 신속+사기/정밀 ()
+//notes: 신속+사기/정밀
+dimwishlist:item=3776430252&perks=247725512,1464081238
+dimwishlist:item=3776430252&perks=247725512,555281244
+
+
 // Ill Omen - 검술사 ()
 //notes: 검술사
 dimwishlist:item=3794274730&perks=269888150
@@ -3765,6 +3835,12 @@ dimwishlist:item=4164201232&perks=706527188,957782887
 dimwishlist:item=4195186942&perks=3300816228,1439600632
 
 
+// Veleda-F - 격퇴+불안정/위축 ()
+//notes: 격퇴+불안정/위축
+dimwishlist:item=4200122994&perks=776531651,2048641572
+dimwishlist:item=4200122994&perks=776531651,1134488199
+
+
 // False Idols - 검술사 ()
 //notes: 검술사
 dimwishlist:item=4207120603&perks=269888150
@@ -3788,6 +3864,13 @@ dimwishlist:item=4230965989&perks=848860060,1771339417
 dimwishlist:item=4230965989&perks=848860060,395388285
 dimwishlist:item=4230965989&perks=848860060,2896038713
 dimwishlist:item=4230965989&perks=848860060,2402480669
+
+
+// VS Pyroelectric Propellant - 소모/와상/전술+충피 ()
+//notes: 소모/와상/전술+충피
+dimwishlist:item=4232480042&perks=243981275,3966416502
+dimwishlist:item=4232480042&perks=684456054,3966416502
+dimwishlist:item=4232480042&perks=880644845,3966416502
 
 
 // Marcato-45 - 폭전+부화 ()
