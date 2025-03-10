@@ -15,6 +15,24 @@ dimwishlist:item=5159537&perks=2779035018,124408337
 dimwishlist:item=8293111&perks=247725512,3038247973
 
 
+// Refusal of the Call (Adept) - 불화/선망/베기+검논/근탄/근공 ()
+//notes: 불화/선망/베기+검논/근탄/근공
+dimwishlist:item=25228802&perks=3978468247,31345821
+dimwishlist:item=25228802&perks=3978468247,3773585912
+dimwishlist:item=25228802&perks=3978468247,1782407750
+dimwishlist:item=25228802&perks=968510818,31345821
+dimwishlist:item=25228802&perks=968510818,3773585912
+dimwishlist:item=25228802&perks=968510818,1782407750
+dimwishlist:item=25228802&perks=923806249,31345821
+dimwishlist:item=25228802&perks=923806249,3773585912
+dimwishlist:item=25228802&perks=923806249,1782407750
+
+
+// Boondoggle Mk. 55 - 속사+비조준 ()
+//notes: 속사+비조준
+dimwishlist:item=32287609&perks=1866048759,2416023159
+
+
 // Subzero Salvo - 야암+폭전/연쇄/집탄 ()
 //notes: 야암+폭전/연쇄/집탄
 dimwishlist:item=42351395&perks=2010801679,3523296417
@@ -172,6 +190,11 @@ dimwishlist:item=135029084&perks=461595545,2896038713
 dimwishlist:item=135029084&perks=461595545,2402480669
 
 
+// Joxer's Longsword - 격퇴+불안정 ()
+//notes: 격퇴+불안정
+dimwishlist:item=157601190&perks=776531651,2048641572
+
+
 // Horror Story - 폭전+묘비 ()
 //notes: 폭전+묘비
 dimwishlist:item=177568179&perks=3523296417,124408337
@@ -269,6 +292,16 @@ dimwishlist:item=268260373&perks=1556840489,2173046394
 dimwishlist:item=268260373&perks=1556840489,1720528630
 dimwishlist:item=268260373&perks=3442762221,2173046394
 dimwishlist:item=268260373&perks=3442762221,1720528630
+
+
+// Eyes Unveiled (Adept) - 범람+충점발 ()
+//notes: 범람+충점발
+dimwishlist:item=282549639&perks=3643424744,1427256713
+
+
+// Eyes Unveiled (Adept) - 삼중+불화 ()
+//notes: 삼중+불화
+dimwishlist:item=282549639&perks=3400784728,3978468247
 
 
 // Ignition Code - 혼란/쐐기+슬라+치무/폭전(PVE) ()
@@ -608,6 +641,12 @@ dimwishlist:item=507038823&perks=1820235745,4104185692
 dimwishlist:item=535198113&perks=1523832109,3640170453
 
 
+// Abyssal Edge - 섬카+방전/부화 ()
+//notes: 섬카+방전/부화
+dimwishlist:item=547165496&perks=2244851822,3201496230
+dimwishlist:item=547165496&perks=2244851822,831391274
+
+
 // Exalted Truth - 망단/풀보어+정조탄+사확장/무법자+폭풍/다처탄+사거리(PVP) ()
 //notes: 망단/풀보어+정조탄+사확장/무법자+폭풍/다처탄+사거리(PVP)
 dimwishlist:item=548809020&perks=3250034553,3142289711,2846385770,699525795
@@ -668,6 +707,12 @@ dimwishlist:item=577528837&perks=1820235745,4104185692
 dimwishlist:item=599895591&perks=3300816228,4104185692
 
 
+// Adamantite (Adept) - 호혜+생명/소모 ()
+//notes: 호혜+생명/소모
+dimwishlist:item=601574723&perks=692399809,2298656195
+dimwishlist:item=601574723&perks=692399809,243981275
+
+
 // Scathelocke - 연명+광란 ()
 //notes: 연명+광란
 dimwishlist:item=602618796&perks=1820235745,3425386926
@@ -679,6 +724,16 @@ dimwishlist:item=613334176&perks=3525010810,2822142346,2010801679,2396489472
 dimwishlist:item=613334176&perks=3525010810,2822142346,2010801679,598607952
 dimwishlist:item=613334176&perks=3525010810,2822142346,3797647183,2396489472
 dimwishlist:item=613334176&perks=3525010810,2822142346,3797647183,598607952
+
+
+// Eyes Unveiled - 범람+충점발 ()
+//notes: 범람+충점발
+dimwishlist:item=615373993&perks=3643424744,1427256713
+
+
+// Eyes Unveiled - 삼중+불화 ()
+//notes: 삼중+불화
+dimwishlist:item=615373993&perks=3400784728,3978468247
 
 
 // Gallu RR3 - 집중/범람+스냅 ()
@@ -721,6 +776,16 @@ dimwishlist:item=720351795&perks=1866048759,3365897133
 //notes: 광란/잠자리+궁움
 dimwishlist:item=720351795&perks=3425386926,201365942
 dimwishlist:item=720351795&perks=2848615171,201365942
+
+
+// Eyes Unveiled - 범람+충점발 ()
+//notes: 범람+충점발
+dimwishlist:item=727781522&perks=3643424744,1427256713
+
+
+// Eyes Unveiled - 삼중+불화 ()
+//notes: 삼중+불화
+dimwishlist:item=727781522&perks=3400784728,3978468247
 
 
 // Deliverance - 영속+방당/성준(PVP) ()
@@ -770,6 +835,11 @@ dimwishlist:item=821154603&perks=839105230,1087426260,2869569095,4082225868
 // Noxious Vetiver - 가차+충격 ()
 //notes: 가차+충격
 dimwishlist:item=825495813&perks=3108830275,3966416502
+
+
+// Noxious Vetiver - 소모+충피 ()
+//notes: 소모+충피
+dimwishlist:item=825495813&perks=243981275,3966416502
 
 
 // Peacebond - 연명+묘비 ()
@@ -1335,6 +1405,17 @@ dimwishlist:item=1513993763&perks=2450788523,3425386926
 dimwishlist:item=1513993763&perks=4071163871,3425386926
 
 
+// Anamnesis (Adept) - 잠자리+불안정 ()
+//notes: 잠자리+불안정
+dimwishlist:item=1536325168&perks=2848615171,2048641572
+
+
+// Anamnesis (Adept) - 격퇴+불안정/사저 ()
+//notes: 격퇴+불안정/사저
+dimwishlist:item=1536325168&perks=776531651,2048641572
+dimwishlist:item=1536325168&perks=776531651,1464081238
+
+
 // Seventh Seraph Officer Revolver - 재구성+치무 ()
 //notes: 재구성+치무
 dimwishlist:item=1555959830&perks=1523832109,1546637391
@@ -1716,6 +1797,16 @@ dimwishlist:item=1959650777&perks=1478423395,3796465595,3300816228,2978966579
 dimwishlist:item=1959650777&perks=1478423395,3796465595,3300816228,344235611
 dimwishlist:item=1959650777&perks=1478423395,3796465595,3528046508,2978966579
 dimwishlist:item=1959650777&perks=1478423395,3796465595,3528046508,344235611
+
+
+// Warlord's Spear - 선망/잔돈/탄되+기폭/충피 ()
+//notes: 선망/잔돈/탄되+기폭/충피
+dimwishlist:item=1968711238&perks=968510818,4198902903
+dimwishlist:item=1968711238&perks=968510818,3966416502
+dimwishlist:item=1968711238&perks=1119449540,4198902903
+dimwishlist:item=1968711238&perks=1119449540,3966416502
+dimwishlist:item=1968711238&perks=3418782618,4198902903
+dimwishlist:item=1968711238&perks=3418782618,3966416502
 
 
 // Igneous Hammer - 세로홈/소구경+도탄+여집/접회/치유+폭눈/초탄+사거리(PVP) ()
@@ -2273,6 +2364,11 @@ dimwishlist:item=2499720827&perks=3250034553,3142289711,3824105627,3891536761
 dimwishlist:item=2499720827&perks=3250034553,3142289711,3700496672,3891536761
 
 
+// Division (Adept) - 와상+볼트샷 ()
+//notes: 와상+볼트샷
+dimwishlist:item=2501377328&perks=684456054,2173046394
+
+
 // Unending Tempest - 동흔감/살바/이표/영속+대조/여집/방당(PVP) ()
 //notes: 동흔감/살바/이표/영속+대조/여집/방당(PVP)
 dimwishlist:item=2510526114&perks=1359896290,365154968
@@ -2430,6 +2526,19 @@ dimwishlist:item=2671639706&perks=1168162263,3425386926
 dimwishlist:item=2671639706&perks=1428297954,4104185692
 
 
+// Refusal of the Call - 불화/선망/베기+검논/근탄/근공 ()
+//notes: 불화/선망/베기+검논/근탄/근공
+dimwishlist:item=2671849376&perks=3978468247,31345821
+dimwishlist:item=2671849376&perks=3978468247,3773585912
+dimwishlist:item=2671849376&perks=3978468247,1782407750
+dimwishlist:item=2671849376&perks=968510818,31345821
+dimwishlist:item=2671849376&perks=968510818,3773585912
+dimwishlist:item=2671849376&perks=968510818,1782407750
+dimwishlist:item=2671849376&perks=923806249,31345821
+dimwishlist:item=2671849376&perks=923806249,3773585912
+dimwishlist:item=2671849376&perks=923806249,1782407750
+
+
 // Irukandji - 정환+사선/집분 ()
 //notes: 정환+사선/집분
 dimwishlist:item=2673925403&perks=1354429876,1771339417
@@ -2442,12 +2551,23 @@ dimwishlist:item=2673925403&perks=1354429876,1771339417
 dimwishlist:item=2673925403&perks=247725512,1771339417
 
 
+// Lotus-Eater (Adept) - 격퇴+불안정 ()
+//notes: 격퇴+불안정
+dimwishlist:item=2697143634&perks=776531651,2048641572
+
+
 // BxR-55 Battler - 폭전+백열(PVE) ()
 //notes: 폭전+백열(PVE)
 dimwishlist:item=2708806099&perks=3523296417,4293542123
 dimwishlist:item=2708806099&perks=3523296417,2675184851
 dimwishlist:item=2708806099&perks=1906147653,4293542123
 dimwishlist:item=2708806099&perks=1906147653,2675184851
+
+
+// Abyssal Edge (Adept) - 섬카+방전/부화 ()
+//notes: 섬카+방전/부화
+dimwishlist:item=2712683313&perks=2244851822,3201496230
+dimwishlist:item=2712683313&perks=2244851822,831391274
 
 
 // Riptide - 화살촉+가코/개량+자장/황탄/야전+냉탄/치무+충속 ()
@@ -2489,6 +2609,19 @@ dimwishlist:item=2742838700&perks=3643424744,3425386926
 // True Prophecy - 사확+폭탄(PVP) ()
 //notes: 사확+폭탄(PVP)
 dimwishlist:item=2742838700&perks=2846385770,3038247973
+
+
+// Refusal of the Call (Adept) - 불화/선망/베기+검논/근탄/근공 ()
+//notes: 불화/선망/베기+검논/근탄/근공
+dimwishlist:item=2755584425&perks=3978468247,31345821
+dimwishlist:item=2755584425&perks=3978468247,3773585912
+dimwishlist:item=2755584425&perks=3978468247,1782407750
+dimwishlist:item=2755584425&perks=968510818,31345821
+dimwishlist:item=2755584425&perks=968510818,3773585912
+dimwishlist:item=2755584425&perks=968510818,1782407750
+dimwishlist:item=2755584425&perks=923806249,31345821
+dimwishlist:item=2755584425&perks=923806249,3773585912
+dimwishlist:item=2755584425&perks=923806249,1782407750
 
 
 // Ignition Code - 슬라/야암/황탄+치무 ()
@@ -2793,6 +2926,12 @@ dimwishlist:item=2978226043&perks=580685494,1087426260,2682205016,1782407750
 dimwishlist:item=2978226043&perks=580685494,1087426260,2682205016,2241043034
 
 
+// Adamantite - 호혜+생명/소모 ()
+//notes: 호혜+생명/소모
+dimwishlist:item=2987244302&perks=692399809,2298656195
+dimwishlist:item=2987244302&perks=692399809,243981275
+
+
 // Out of Bounds - 폭전/연명+아드/황트 ()
 //notes: 폭전/연명+아드/황트
 dimwishlist:item=2988121501&perks=3523296417,11612903
@@ -2842,6 +2981,11 @@ dimwishlist:item=2990047042&perks=1840239774,2420895100,461595545,469285294
 dimwishlist:item=2990047042&perks=1840239774,2420895100,461595545,3335686050
 
 
+// Division - 와상+볼트샷 ()
+//notes: 와상+볼트샷
+dimwishlist:item=2992463569&perks=684456054,2173046394
+
+
 // Unforgiven - 폭전/무먹쟁+아드/황트/광폭 ()
 //notes: 폭전/무먹쟁+아드/황트/광폭
 dimwishlist:item=3000847393&perks=3523296417,11612903
@@ -2868,6 +3012,12 @@ dimwishlist:item=3044460004&perks=2621346526,2213355989
 // Iota Draconis - 압박+고비탄(PVP) ()
 //notes: 압박+고비탄(PVP)
 dimwishlist:item=3044460004&perks=1645158859,2213355989
+
+
+// Abyssal Edge (Adept) - 섬카+방전/부화 ()
+//notes: 섬카+방전/부화
+dimwishlist:item=3054597646&perks=2244851822,3201496230
+dimwishlist:item=3054597646&perks=2244851822,831391274
 
 
 // Timelines' Vertex - 단디+스냅 ()
@@ -3006,6 +3156,12 @@ dimwishlist:item=3228096719&perks=3442762221,1771339417
 dimwishlist:item=3228096719&perks=3442762221,395388285
 dimwishlist:item=3228096719&perks=3442762221,2896038713
 dimwishlist:item=3228096719&perks=3442762221,2402480669
+
+
+// Adamantite - 호혜+생명/소모 ()
+//notes: 호혜+생명/소모
+dimwishlist:item=3229982889&perks=692399809,2298656195
+dimwishlist:item=3229982889&perks=692399809,243981275
 
 
 // Someday - 황탄+재결합 ()
@@ -3259,6 +3415,17 @@ dimwishlist:item=3409645497&perks=2779035018,3425386926
 dimwishlist:item=3409645497&perks=3436462433,4104185692
 
 
+// Anamnesis - 잠자리+불안정 ()
+//notes: 잠자리+불안정
+dimwishlist:item=3417731926&perks=2848615171,2048641572
+
+
+// Anamnesis - 격퇴+불안정/사저 ()
+//notes: 격퇴+불안정/사저
+dimwishlist:item=3417731926&perks=776531651,2048641572
+dimwishlist:item=3417731926&perks=776531651,1464081238
+
+
 // Red Tape - 서리+묘비 ()
 //notes: 서리+묘비
 dimwishlist:item=3423493037&perks=1955165503,124408337
@@ -3301,6 +3468,12 @@ dimwishlist:item=3473290087&perks=1556840489,1546637391
 // Mistral Lift - 재구+미끼 ()
 //notes: 재구+미끼
 dimwishlist:item=3483485727&perks=1523832109,3078487919
+
+
+// Adamantite (Adept) - 호혜+생명/소모 ()
+//notes: 호혜+생명/소모
+dimwishlist:item=3485029080&perks=692399809,2298656195
+dimwishlist:item=3485029080&perks=692399809,243981275
 
 
 // Palmyra-B - 자장+폭빛/냉탄 ()
@@ -3477,6 +3650,11 @@ dimwishlist:item=3723679465&perks=1168162263,2173046394
 dimwishlist:item=3723679465&perks=247725512,1015611457
 
 
+// Division (Adept) - 와상+볼트샷 ()
+//notes: 와상+볼트샷
+dimwishlist:item=3734001727&perks=684456054,2173046394
+
+
 // Dead Weight - 자장/무덤/황탄+트렌치/원투/치무 ()
 //notes: 자장/무덤/황탄+트렌치/원투/치무
 dimwishlist:item=3738678140&perks=3300816228,2360754333
@@ -3642,6 +3820,11 @@ dimwishlist:item=3890055324&perks=1347741687,2048641572
 dimwishlist:item=3890055324&perks=1347741687,1926441324
 
 
+// Lotus-Eater - 격퇴+불안정 ()
+//notes: 격퇴+불안정
+dimwishlist:item=3922217119&perks=776531651,2048641572
+
+
 // Parabellum - 탄되감+분석 ()
 //notes: 탄되감+분석
 dimwishlist:item=3926811686&perks=3418782618,3993379141
@@ -3666,6 +3849,17 @@ dimwishlist:item=3937866388&perks=4071163871,3708227201
 dimwishlist:item=3947966653&perks=923806249,1546637391
 dimwishlist:item=3947966653&perks=1556840489,1546637391
 dimwishlist:item=3947966653&perks=2859149211,1546637391
+
+
+// Anamnesis (Adept) - 잠자리+불안정 ()
+//notes: 잠자리+불안정
+dimwishlist:item=3949253499&perks=2848615171,2048641572
+
+
+// Anamnesis (Adept) - 격퇴+불안정/사저 ()
+//notes: 격퇴+불안정/사저
+dimwishlist:item=3949253499&perks=776531651,2048641572
+dimwishlist:item=3949253499&perks=776531651,1464081238
 
 
 // Yarovit MG4 - 탄되+묘비 ()
@@ -3830,6 +4024,16 @@ dimwishlist:item=4156253727&perks=2846385770,47981717
 dimwishlist:item=4164201232&perks=706527188,957782887
 
 
+// Eyes Unveiled (Adept) - 범람+충점발 ()
+//notes: 범람+충점발
+dimwishlist:item=4173311704&perks=3643424744,1427256713
+
+
+// Eyes Unveiled (Adept) - 삼중+불화 ()
+//notes: 삼중+불화
+dimwishlist:item=4173311704&perks=3400784728,3978468247
+
+
 // Faith-Keeper - 자장+양각대 ()
 //notes: 자장+양각대
 dimwishlist:item=4195186942&perks=3300816228,1439600632
@@ -3844,6 +4048,12 @@ dimwishlist:item=4200122994&perks=776531651,1134488199
 // False Idols - 검술사 ()
 //notes: 검술사
 dimwishlist:item=4207120603&perks=269888150
+
+
+// Abyssal Edge - 섬카+방전/부화 ()
+//notes: 섬카+방전/부화
+dimwishlist:item=4221591387&perks=2244851822,3201496230
+dimwishlist:item=4221591387&perks=2244851822,831391274
 
 
 // Commemoration - 화살촉+연장+재구성+살육+안정성(잡몹용) ()
